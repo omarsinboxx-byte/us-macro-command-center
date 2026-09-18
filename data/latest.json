@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:11:56.530636+00:00",
+  "generated_at": "2026-09-18T16:37:30.669260+00:00",
   "metrics": [
     {
       "id": "DFF",
@@ -8,18 +8,14 @@
       "unit": "%",
       "importance": 5,
       "value": 3.63,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "change": 0.0,
       "status": "neutral",
       "source": "FRED",
       "source_title": "Federal Funds Effective Rate",
       "frequency": "Daily, 7-Day",
-      "last_updated": "2026-09-16 15:16:29-05",
+      "last_updated": "2026-09-17 15:16:35-05",
       "history": [
-        {
-          "date": "2026-01-19",
-          "value": 3.64
-        },
         {
           "date": "2026-01-20",
           "value": 3.64
@@ -975,6 +971,10 @@
         {
           "date": "2026-09-15",
           "value": 3.63
+        },
+        {
+          "date": "2026-09-16",
+          "value": 3.63
         }
       ]
     },
@@ -984,19 +984,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 4,
-      "value": 4.11,
-      "date": "2026-09-15",
-      "change": 0.0,
-      "status": "neutral",
+      "value": 4.14,
+      "date": "2026-09-16",
+      "change": 0.02999999999999936,
+      "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 15:16:27-05",
+      "last_updated": "2026-09-17 15:16:37-05",
       "history": [
-        {
-          "date": "2025-09-30",
-          "value": 4.02
-        },
         {
           "date": "2025-10-01",
           "value": 4.01
@@ -1952,6 +1948,10 @@
         {
           "date": "2026-09-15",
           "value": 4.11
+        },
+        {
+          "date": "2026-09-16",
+          "value": 4.14
         }
       ]
     },
@@ -1961,19 +1961,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 5,
-      "value": 4.67,
-      "date": "2026-09-15",
-      "change": 0.019999999999999574,
+      "value": 4.74,
+      "date": "2026-09-16",
+      "change": 0.07000000000000028,
       "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 15:16:35-05",
+      "last_updated": "2026-09-17 15:16:38-05",
       "history": [
-        {
-          "date": "2025-09-30",
-          "value": 3.6
-        },
         {
           "date": "2025-10-01",
           "value": 3.55
@@ -2929,6 +2925,10 @@
         {
           "date": "2026-09-15",
           "value": 4.67
+        },
+        {
+          "date": "2026-09-16",
+          "value": 4.74
         }
       ]
     },
@@ -2938,19 +2938,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 4,
-      "value": 4.83,
-      "date": "2026-09-15",
+      "value": 4.86,
+      "date": "2026-09-16",
       "change": 0.03000000000000025,
       "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 15:16:33-05",
+      "last_updated": "2026-09-17 15:16:41-05",
       "history": [
-        {
-          "date": "2025-09-30",
-          "value": 3.74
-        },
         {
           "date": "2025-10-01",
           "value": 3.68
@@ -3906,6 +3902,10 @@
         {
           "date": "2026-09-15",
           "value": 4.83
+        },
+        {
+          "date": "2026-09-16",
+          "value": 4.86
         }
       ]
     },
@@ -3915,19 +3915,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 5,
-      "value": 5.0,
-      "date": "2026-09-15",
-      "change": 0.03000000000000025,
+      "value": 5.01,
+      "date": "2026-09-16",
+      "change": 0.009999999999999787,
       "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 15:16:34-05",
+      "last_updated": "2026-09-17 15:16:34-05",
       "history": [
-        {
-          "date": "2025-09-30",
-          "value": 4.16
-        },
         {
           "date": "2025-10-01",
           "value": 4.12
@@ -4883,6 +4879,10 @@
         {
           "date": "2026-09-15",
           "value": 5.0
+        },
+        {
+          "date": "2026-09-16",
+          "value": 5.01
         }
       ]
     },
@@ -4892,19 +4892,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 4,
-      "value": 5.36,
-      "date": "2026-09-15",
-      "change": 0.020000000000000462,
-      "status": "negative",
+      "value": 5.35,
+      "date": "2026-09-16",
+      "change": -0.010000000000000675,
+      "status": "positive",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 15:16:33-05",
+      "last_updated": "2026-09-17 15:16:40-05",
       "history": [
-        {
-          "date": "2025-09-30",
-          "value": 4.73
-        },
         {
           "date": "2025-10-01",
           "value": 4.72
@@ -5860,6 +5856,10 @@
         {
           "date": "2026-09-15",
           "value": 5.36
+        },
+        {
+          "date": "2026-09-16",
+          "value": 5.35
         }
       ]
     },
@@ -5870,18 +5870,14 @@
       "unit": "pp",
       "importance": 4,
       "value": 0.27,
-      "date": "2026-09-16",
-      "change": -0.06,
-      "status": "negative",
+      "date": "2026-09-17",
+      "change": 0.0,
+      "status": "neutral",
       "source": "FRED",
       "source_title": "10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 16:03:28-05",
+      "last_updated": "2026-09-17 16:03:34-05",
       "history": [
-        {
-          "date": "2025-10-01",
-          "value": 0.57
-        },
         {
           "date": "2025-10-02",
           "value": 0.55
@@ -6837,6 +6833,10 @@
         {
           "date": "2026-09-16",
           "value": 0.27
+        },
+        {
+          "date": "2026-09-17",
+          "value": 0.27
         }
       ]
     },
@@ -6846,19 +6846,15 @@
       "section": "Rates",
       "unit": "pp",
       "importance": 4,
-      "value": 0.87,
-      "date": "2026-09-16",
-      "change": -0.020000000000000018,
+      "value": 0.82,
+      "date": "2026-09-17",
+      "change": -0.050000000000000044,
       "status": "negative",
       "source": "FRED",
       "source_title": "10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 16:03:30-05",
+      "last_updated": "2026-09-17 16:03:32-05",
       "history": [
-        {
-          "date": "2025-10-01",
-          "value": 0.11
-        },
         {
           "date": "2025-10-02",
           "value": 0.08
@@ -7814,6 +7810,10 @@
         {
           "date": "2026-09-16",
           "value": 0.87
+        },
+        {
+          "date": "2026-09-17",
+          "value": 0.82
         }
       ]
     },
@@ -7823,19 +7823,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 5,
-      "value": 2.62,
-      "date": "2026-09-15",
-      "change": 0.020000000000000018,
+      "value": 2.68,
+      "date": "2026-09-16",
+      "change": 0.06000000000000005,
       "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 15:16:25-05",
+      "last_updated": "2026-09-17 15:16:34-05",
       "history": [
-        {
-          "date": "2025-09-30",
-          "value": 1.8
-        },
         {
           "date": "2025-10-01",
           "value": 1.77
@@ -8791,6 +8787,10 @@
         {
           "date": "2026-09-15",
           "value": 2.62
+        },
+        {
+          "date": "2026-09-16",
+          "value": 2.68
         }
       ]
     },
@@ -12708,19 +12708,15 @@
       "section": "Inflation",
       "unit": "%",
       "importance": 4,
-      "value": 2.35,
-      "date": "2026-09-16",
-      "change": -0.06000000000000005,
+      "value": 2.32,
+      "date": "2026-09-17",
+      "change": -0.03000000000000025,
       "status": "positive",
       "source": "FRED",
       "source_title": "5-Year Breakeven Inflation Rate",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 16:03:31-05",
+      "last_updated": "2026-09-17 16:03:35-05",
       "history": [
-        {
-          "date": "2025-10-01",
-          "value": 2.39
-        },
         {
           "date": "2025-10-02",
           "value": 2.37
@@ -13676,6 +13672,10 @@
         {
           "date": "2026-09-16",
           "value": 2.35
+        },
+        {
+          "date": "2026-09-17",
+          "value": 2.32
         }
       ]
     },
@@ -13686,18 +13686,14 @@
       "unit": "%",
       "importance": 4,
       "value": 2.33,
-      "date": "2026-09-16",
-      "change": -0.04999999999999982,
-      "status": "positive",
+      "date": "2026-09-17",
+      "change": 0.0,
+      "status": "neutral",
       "source": "FRED",
       "source_title": "10-Year Breakeven Inflation Rate",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 16:03:29-05",
+      "last_updated": "2026-09-17 16:03:33-05",
       "history": [
-        {
-          "date": "2025-10-01",
-          "value": 2.35
-        },
         {
           "date": "2025-10-02",
           "value": 2.34
@@ -14652,6 +14648,10 @@
         },
         {
           "date": "2026-09-16",
+          "value": 2.33
+        },
+        {
+          "date": "2026-09-17",
           "value": 2.33
         }
       ]
@@ -20937,19 +20937,15 @@
       "section": "Growth",
       "unit": "index",
       "importance": 3,
-      "value": 1.0794551200266955,
-      "date": "2026-07-01",
-      "change": -0.20978348716595985,
-      "status": "negative",
+      "value": 1.4204223973108832,
+      "date": "2026-08-01",
+      "change": 0.2904245564174124,
+      "status": "positive",
       "source": "FRED",
       "source_title": "Industrial Production: Total Index",
       "frequency": "Monthly",
-      "last_updated": "2026-08-18 08:20:15-05",
+      "last_updated": "2026-09-18 08:20:08-05",
       "history": [
-        {
-          "date": "2006-08-01",
-          "value": 2.3669704568583194
-        },
         {
           "date": "2006-09-01",
           "value": 4.2159275134967755
@@ -21888,23 +21884,27 @@
         },
         {
           "date": "2026-03-01",
-          "value": 0.706549063542905
+          "value": 0.6860622087798474
         },
         {
           "date": "2026-04-01",
-          "value": 1.3763758567121531
+          "value": 1.4342233943352989
         },
         {
           "date": "2026-05-01",
-          "value": 1.529631408748533
+          "value": 1.658091130138506
         },
         {
           "date": "2026-06-01",
-          "value": 1.2892386071926554
+          "value": 1.3436343659001704
         },
         {
           "date": "2026-07-01",
-          "value": 1.0794551200266955
+          "value": 1.1299978408934708
+        },
+        {
+          "date": "2026-08-01",
+          "value": 1.4204223973108832
         }
       ]
     },
@@ -28202,18 +28202,14 @@
       "unit": "%",
       "importance": 5,
       "value": 2.7,
-      "date": "2026-09-16",
-      "change": -0.05999999999999961,
-      "status": "positive",
+      "date": "2026-09-17",
+      "change": 0.0,
+      "status": "neutral",
       "source": "FRED",
       "source_title": "ICE BofA US High Yield Index Option-Adjusted Spread",
       "frequency": "Daily, Close",
-      "last_updated": "2026-09-17 09:18:44-05",
+      "last_updated": "2026-09-18 09:22:45-05",
       "history": [
-        {
-          "date": "2025-10-20",
-          "value": 2.99
-        },
         {
           "date": "2025-10-21",
           "value": 2.97
@@ -29169,6 +29165,10 @@
         {
           "date": "2026-09-16",
           "value": 2.7
+        },
+        {
+          "date": "2026-09-17",
+          "value": 2.7
         }
       ]
     },
@@ -29179,18 +29179,14 @@
       "unit": "%",
       "importance": 4,
       "value": 0.78,
-      "date": "2026-09-16",
-      "change": -0.020000000000000018,
-      "status": "positive",
+      "date": "2026-09-17",
+      "change": 0.0,
+      "status": "neutral",
       "source": "FRED",
       "source_title": "ICE BofA US Corporate Index Option-Adjusted Spread",
       "frequency": "Daily, Close",
-      "last_updated": "2026-09-17 09:18:29-05",
+      "last_updated": "2026-09-18 09:19:55-05",
       "history": [
-        {
-          "date": "2025-10-20",
-          "value": 0.79
-        },
         {
           "date": "2025-10-21",
           "value": 0.79
@@ -30146,6 +30142,10 @@
         {
           "date": "2026-09-16",
           "value": 0.78
+        },
+        {
+          "date": "2026-09-17",
+          "value": 0.78
         }
       ]
     },
@@ -30155,19 +30155,15 @@
       "section": "Financial Conditions",
       "unit": "index",
       "importance": 5,
-      "value": 17.71,
-      "date": "2026-09-16",
-      "change": 0.5100000000000016,
-      "status": "negative",
+      "value": 15.44,
+      "date": "2026-09-17",
+      "change": -2.2700000000000014,
+      "status": "positive",
       "source": "FRED",
       "source_title": "CBOE Volatility Index: VIX",
       "frequency": "Daily, Close",
-      "last_updated": "2026-09-17 08:37:30-05",
+      "last_updated": "2026-09-18 08:38:33-05",
       "history": [
-        {
-          "date": "2025-10-13",
-          "value": 19.03
-        },
         {
           "date": "2025-10-14",
           "value": 20.81
@@ -31123,6 +31119,10 @@
         {
           "date": "2026-09-16",
           "value": 17.71
+        },
+        {
+          "date": "2026-09-17",
+          "value": 15.44
         }
       ]
     },
@@ -31132,19 +31132,15 @@
       "section": "Liquidity",
       "unit": "$mn",
       "importance": 4,
-      "value": 6740619.0,
-      "date": "2026-09-09",
-      "change": 3415.0,
+      "value": 6746548.0,
+      "date": "2026-09-16",
+      "change": 5929.0,
       "status": "positive",
       "source": "FRED",
       "source_title": "Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level",
       "frequency": "Weekly, As of Wednesday",
-      "last_updated": "2026-09-10 15:32:07-05",
+      "last_updated": "2026-09-17 15:31:55-05",
       "history": [
-        {
-          "date": "2022-02-09",
-          "value": 8878009.0
-        },
         {
           "date": "2022-02-16",
           "value": 8911033.0
@@ -32100,6 +32096,10 @@
         {
           "date": "2026-09-09",
           "value": 6740619.0
+        },
+        {
+          "date": "2026-09-16",
+          "value": 6746548.0
         }
       ]
     },
@@ -32109,19 +32109,15 @@
       "section": "Liquidity",
       "unit": "$bn",
       "importance": 4,
-      "value": 883335.0,
-      "date": "2026-09-09",
-      "change": -84600.0,
+      "value": 877028.0,
+      "date": "2026-09-16",
+      "change": -6307.0,
       "status": "negative",
       "source": "FRED",
       "source_title": "Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Week Average",
       "frequency": "Weekly, Ending Wednesday",
-      "last_updated": "2026-09-10 15:32:21-05",
+      "last_updated": "2026-09-17 15:31:52-05",
       "history": [
-        {
-          "date": "2022-02-09",
-          "value": 686384.0
-        },
         {
           "date": "2022-02-16",
           "value": 692541.0
@@ -33077,6 +33073,10 @@
         {
           "date": "2026-09-09",
           "value": 883335.0
+        },
+        {
+          "date": "2026-09-16",
+          "value": 877028.0
         }
       ]
     },
@@ -33086,19 +33086,15 @@
       "section": "Liquidity",
       "unit": "$bn",
       "importance": 4,
-      "value": 5.375,
-      "date": "2026-09-16",
-      "change": 4.675,
-      "status": "positive",
+      "value": 0.276,
+      "date": "2026-09-17",
+      "change": -5.099,
+      "status": "negative",
       "source": "FRED",
       "source_title": "Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations",
       "frequency": "Daily",
-      "last_updated": "2026-09-16 13:02:36-05",
+      "last_updated": "2026-09-17 13:02:35-05",
       "history": [
-        {
-          "date": "2025-09-30",
-          "value": 49.071
-        },
         {
           "date": "2025-10-01",
           "value": 10.179
@@ -34054,6 +34050,10 @@
         {
           "date": "2026-09-16",
           "value": 5.375
+        },
+        {
+          "date": "2026-09-17",
+          "value": 0.276
         }
       ]
     },
