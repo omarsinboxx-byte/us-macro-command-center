@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:21:35.441751+00:00",
+  "generated_at": "2026-10-13T19:26:46.201423+00:00",
   "metrics": [
     {
       "id": "DFF",
@@ -28205,23 +28205,15 @@
       "section": "Financial Conditions",
       "unit": "%",
       "importance": 5,
-      "value": 3.15,
-      "date": "2026-10-08",
-      "change": 0.06000000000000005,
-      "status": "negative",
+      "value": 3.11,
+      "date": "2026-10-12",
+      "change": 0.0,
+      "status": "neutral",
       "source": "FRED",
       "source_title": "ICE BofA US High Yield Index Option-Adjusted Spread",
       "frequency": "Daily, Close",
-      "last_updated": "2026-10-09 08:08:04-05",
+      "last_updated": "2026-10-13 10:16:53-05",
       "history": [
-        {
-          "date": "2025-11-11",
-          "value": 3.02
-        },
-        {
-          "date": "2025-11-12",
-          "value": 3.02
-        },
         {
           "date": "2025-11-13",
           "value": 3.09
@@ -29173,6 +29165,14 @@
         {
           "date": "2026-10-08",
           "value": 3.15
+        },
+        {
+          "date": "2026-10-09",
+          "value": 3.11
+        },
+        {
+          "date": "2026-10-12",
+          "value": 3.11
         }
       ]
     },
@@ -29182,23 +29182,15 @@
       "section": "Financial Conditions",
       "unit": "%",
       "importance": 4,
-      "value": 0.82,
-      "date": "2026-10-08",
+      "value": 0.83,
+      "date": "2026-10-12",
       "change": 0.0,
       "status": "neutral",
       "source": "FRED",
       "source_title": "ICE BofA US Corporate Index Option-Adjusted Spread",
       "frequency": "Daily, Close",
-      "last_updated": "2026-10-09 08:08:12-05",
+      "last_updated": "2026-10-13 10:16:43-05",
       "history": [
-        {
-          "date": "2025-11-11",
-          "value": 0.82
-        },
-        {
-          "date": "2025-11-12",
-          "value": 0.83
-        },
         {
           "date": "2025-11-13",
           "value": 0.84
@@ -30150,6 +30142,14 @@
         {
           "date": "2026-10-08",
           "value": 0.82
+        },
+        {
+          "date": "2026-10-09",
+          "value": 0.83
+        },
+        {
+          "date": "2026-10-12",
+          "value": 0.83
         }
       ]
     },
@@ -30159,19 +30159,15 @@
       "section": "Financial Conditions",
       "unit": "index",
       "importance": 5,
-      "value": 14.84,
-      "date": "2026-10-09",
-      "change": -0.5700000000000003,
-      "status": "positive",
+      "value": 15.21,
+      "date": "2026-10-12",
+      "change": 0.370000000000001,
+      "status": "negative",
       "source": "FRED",
       "source_title": "CBOE Volatility Index: VIX",
       "frequency": "Daily, Close",
-      "last_updated": "2026-10-12 08:37:34-05",
+      "last_updated": "2026-10-13 08:37:36-05",
       "history": [
-        {
-          "date": "2025-11-05",
-          "value": 18.01
-        },
         {
           "date": "2025-11-06",
           "value": 19.5
@@ -31127,6 +31123,10 @@
         {
           "date": "2026-10-09",
           "value": 14.84
+        },
+        {
+          "date": "2026-10-12",
+          "value": 15.21
         }
       ]
     },
@@ -33090,19 +33090,15 @@
       "section": "Liquidity",
       "unit": "$bn",
       "importance": 4,
-      "value": 0.3,
-      "date": "2026-10-09",
-      "change": -0.03500000000000003,
+      "value": 0.275,
+      "date": "2026-10-13",
+      "change": -0.024999999999999967,
       "status": "negative",
       "source": "FRED",
       "source_title": "Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations",
       "frequency": "Daily",
-      "last_updated": "2026-10-09 13:02:29-05",
+      "last_updated": "2026-10-13 13:02:38-05",
       "history": [
-        {
-          "date": "2025-10-24",
-          "value": 2.435
-        },
         {
           "date": "2025-10-27",
           "value": 10.642
@@ -34058,6 +34054,10 @@
         {
           "date": "2026-10-09",
           "value": 0.3
+        },
+        {
+          "date": "2026-10-13",
+          "value": 0.275
         }
       ]
     },
