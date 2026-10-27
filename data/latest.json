@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:47:51.517746+00:00",
+  "generated_at": "2026-10-27T18:09:49.478425+00:00",
   "metrics": [
     {
       "id": "DFF",
@@ -8,18 +8,14 @@
       "unit": "%",
       "importance": 5,
       "value": 3.88,
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "change": 0.0,
       "status": "neutral",
       "source": "FRED",
       "source_title": "Federal Funds Effective Rate",
       "frequency": "Daily, 7-Day",
-      "last_updated": "2026-10-23 15:16:47-05",
+      "last_updated": "2026-10-26 15:16:52-05",
       "history": [
-        {
-          "date": "2026-02-25",
-          "value": 3.64
-        },
         {
           "date": "2026-02-26",
           "value": 3.64
@@ -975,6 +971,10 @@
         {
           "date": "2026-10-22",
           "value": 3.88
+        },
+        {
+          "date": "2026-10-23",
+          "value": 3.88
         }
       ]
     },
@@ -985,18 +985,14 @@
       "unit": "%",
       "importance": 4,
       "value": 4.22,
-      "date": "2026-10-22",
-      "change": -0.03000000000000025,
-      "status": "positive",
+      "date": "2026-10-23",
+      "change": 0.0,
+      "status": "neutral",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 15:16:59-05",
+      "last_updated": "2026-10-26 15:16:56-05",
       "history": [
-        {
-          "date": "2025-11-06",
-          "value": 3.93
-        },
         {
           "date": "2025-11-07",
           "value": 3.92
@@ -1952,6 +1948,10 @@
         {
           "date": "2026-10-22",
           "value": 4.22
+        },
+        {
+          "date": "2026-10-23",
+          "value": 4.22
         }
       ]
     },
@@ -1961,19 +1961,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 5,
-      "value": 4.65,
-      "date": "2026-10-22",
-      "change": -0.15999999999999925,
-      "status": "positive",
+      "value": 4.69,
+      "date": "2026-10-23",
+      "change": 0.040000000000000036,
+      "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 15:16:45-05",
+      "last_updated": "2026-10-26 15:16:55-05",
       "history": [
-        {
-          "date": "2025-11-06",
-          "value": 3.57
-        },
         {
           "date": "2025-11-07",
           "value": 3.55
@@ -2929,6 +2925,10 @@
         {
           "date": "2026-10-22",
           "value": 4.65
+        },
+        {
+          "date": "2026-10-23",
+          "value": 4.69
         }
       ]
     },
@@ -2938,19 +2938,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 4,
-      "value": 4.78,
-      "date": "2026-10-22",
-      "change": -0.16999999999999993,
-      "status": "positive",
+      "value": 4.82,
+      "date": "2026-10-23",
+      "change": 0.040000000000000036,
+      "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 15:16:49-05",
+      "last_updated": "2026-10-26 15:17:00-05",
       "history": [
-        {
-          "date": "2025-11-06",
-          "value": 3.69
-        },
         {
           "date": "2025-11-07",
           "value": 3.67
@@ -3906,6 +3902,10 @@
         {
           "date": "2026-10-22",
           "value": 4.78
+        },
+        {
+          "date": "2026-10-23",
+          "value": 4.82
         }
       ]
     },
@@ -3915,19 +3915,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 5,
-      "value": 4.96,
-      "date": "2026-10-22",
-      "change": -0.16999999999999993,
-      "status": "positive",
+      "value": 5.0,
+      "date": "2026-10-23",
+      "change": 0.040000000000000036,
+      "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 15:16:51-05",
+      "last_updated": "2026-10-26 15:16:53-05",
       "history": [
-        {
-          "date": "2025-11-06",
-          "value": 4.11
-        },
         {
           "date": "2025-11-07",
           "value": 4.11
@@ -4883,6 +4879,10 @@
         {
           "date": "2026-10-22",
           "value": 4.96
+        },
+        {
+          "date": "2026-10-23",
+          "value": 5.0
         }
       ]
     },
@@ -4892,19 +4892,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 4,
-      "value": 5.29,
-      "date": "2026-10-22",
-      "change": -0.1299999999999999,
-      "status": "positive",
+      "value": 5.33,
+      "date": "2026-10-23",
+      "change": 0.040000000000000036,
+      "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 15:16:47-05",
+      "last_updated": "2026-10-26 15:16:57-05",
       "history": [
-        {
-          "date": "2025-11-06",
-          "value": 4.69
-        },
         {
           "date": "2025-11-07",
           "value": 4.7
@@ -5860,6 +5856,10 @@
         {
           "date": "2026-10-22",
           "value": 5.29
+        },
+        {
+          "date": "2026-10-23",
+          "value": 5.33
         }
       ]
     },
@@ -5869,19 +5869,15 @@
       "section": "Rates",
       "unit": "pp",
       "importance": 4,
-      "value": 0.31,
-      "date": "2026-10-23",
-      "change": 0.0,
-      "status": "neutral",
+      "value": 0.32,
+      "date": "2026-10-26",
+      "change": 0.010000000000000009,
+      "status": "positive",
       "source": "FRED",
       "source_title": "10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 16:03:36-05",
+      "last_updated": "2026-10-26 16:03:33-05",
       "history": [
-        {
-          "date": "2025-11-07",
-          "value": 0.56
-        },
         {
           "date": "2025-11-10",
           "value": 0.55
@@ -6837,6 +6833,10 @@
         {
           "date": "2026-10-23",
           "value": 0.31
+        },
+        {
+          "date": "2026-10-26",
+          "value": 0.32
         }
       ]
     },
@@ -6847,18 +6847,14 @@
       "unit": "pp",
       "importance": 4,
       "value": 0.78,
-      "date": "2026-10-23",
-      "change": 0.040000000000000036,
-      "status": "positive",
+      "date": "2026-10-26",
+      "change": 0.0,
+      "status": "neutral",
       "source": "FRED",
       "source_title": "10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 16:03:34-05",
+      "last_updated": "2026-10-26 16:03:32-05",
       "history": [
-        {
-          "date": "2025-11-07",
-          "value": 0.19
-        },
         {
           "date": "2025-11-10",
           "value": 0.18
@@ -7814,6 +7810,10 @@
         {
           "date": "2026-10-23",
           "value": 0.78
+        },
+        {
+          "date": "2026-10-26",
+          "value": 0.78
         }
       ]
     },
@@ -7823,19 +7823,15 @@
       "section": "Rates",
       "unit": "%",
       "importance": 5,
-      "value": 2.64,
-      "date": "2026-10-22",
-      "change": -0.11999999999999966,
-      "status": "positive",
+      "value": 2.66,
+      "date": "2026-10-23",
+      "change": 0.020000000000000018,
+      "status": "negative",
       "source": "FRED",
       "source_title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 15:16:32-05",
+      "last_updated": "2026-10-26 15:16:51-05",
       "history": [
-        {
-          "date": "2025-11-06",
-          "value": 1.83
-        },
         {
           "date": "2025-11-07",
           "value": 1.83
@@ -8791,6 +8787,10 @@
         {
           "date": "2026-10-22",
           "value": 2.64
+        },
+        {
+          "date": "2026-10-23",
+          "value": 2.66
         }
       ]
     },
@@ -12708,19 +12708,15 @@
       "section": "Inflation",
       "unit": "%",
       "importance": 4,
-      "value": 2.48,
-      "date": "2026-10-23",
-      "change": 0.029999999999999805,
-      "status": "negative",
+      "value": 2.47,
+      "date": "2026-10-26",
+      "change": -0.009999999999999787,
+      "status": "positive",
       "source": "FRED",
       "source_title": "5-Year Breakeven Inflation Rate",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 16:03:36-05",
+      "last_updated": "2026-10-26 16:03:30-05",
       "history": [
-        {
-          "date": "2025-11-07",
-          "value": 2.36
-        },
         {
           "date": "2025-11-10",
           "value": 2.38
@@ -13676,6 +13672,10 @@
         {
           "date": "2026-10-23",
           "value": 2.48
+        },
+        {
+          "date": "2026-10-26",
+          "value": 2.47
         }
       ]
     },
@@ -13686,18 +13686,14 @@
       "unit": "%",
       "importance": 4,
       "value": 2.34,
-      "date": "2026-10-23",
-      "change": 0.020000000000000018,
-      "status": "negative",
+      "date": "2026-10-26",
+      "change": 0.0,
+      "status": "neutral",
       "source": "FRED",
       "source_title": "10-Year Breakeven Inflation Rate",
       "frequency": "Daily",
-      "last_updated": "2026-10-23 16:03:34-05",
+      "last_updated": "2026-10-26 16:03:32-05",
       "history": [
-        {
-          "date": "2025-11-07",
-          "value": 2.28
-        },
         {
           "date": "2025-11-10",
           "value": 2.29
@@ -14652,6 +14648,10 @@
         },
         {
           "date": "2026-10-23",
+          "value": 2.34
+        },
+        {
+          "date": "2026-10-26",
           "value": 2.34
         }
       ]
@@ -28205,19 +28205,15 @@
       "section": "Financial Conditions",
       "unit": "%",
       "importance": 5,
-      "value": 3.38,
-      "date": "2026-10-23",
-      "change": -0.020000000000000018,
+      "value": 3.3,
+      "date": "2026-10-26",
+      "change": -0.08000000000000007,
       "status": "positive",
       "source": "FRED",
       "source_title": "ICE BofA US High Yield Index Option-Adjusted Spread",
       "frequency": "Daily, Close",
-      "last_updated": "2026-10-26 09:06:26-05",
+      "last_updated": "2026-10-27 10:13:53-05",
       "history": [
-        {
-          "date": "2025-11-26",
-          "value": 3.0
-        },
         {
           "date": "2025-11-27",
           "value": 3.0
@@ -29173,6 +29169,10 @@
         {
           "date": "2026-10-23",
           "value": 3.38
+        },
+        {
+          "date": "2026-10-26",
+          "value": 3.3
         }
       ]
     },
@@ -29182,19 +29182,15 @@
       "section": "Financial Conditions",
       "unit": "%",
       "importance": 4,
-      "value": 0.91,
-      "date": "2026-10-23",
-      "change": 0.020000000000000018,
-      "status": "negative",
+      "value": 0.9,
+      "date": "2026-10-26",
+      "change": -0.010000000000000009,
+      "status": "positive",
       "source": "FRED",
       "source_title": "ICE BofA US Corporate Index Option-Adjusted Spread",
       "frequency": "Daily, Close",
-      "last_updated": "2026-10-26 09:06:34-05",
+      "last_updated": "2026-10-27 10:10:13-05",
       "history": [
-        {
-          "date": "2025-11-26",
-          "value": 0.82
-        },
         {
           "date": "2025-11-27",
           "value": 0.82
@@ -30150,6 +30146,10 @@
         {
           "date": "2026-10-23",
           "value": 0.91
+        },
+        {
+          "date": "2026-10-26",
+          "value": 0.9
         }
       ]
     },
@@ -30159,19 +30159,15 @@
       "section": "Financial Conditions",
       "unit": "index",
       "importance": 5,
-      "value": 19.45,
-      "date": "2026-10-23",
-      "change": 0.41999999999999815,
-      "status": "negative",
+      "value": 18.39,
+      "date": "2026-10-26",
+      "change": -1.0599999999999987,
+      "status": "positive",
       "source": "FRED",
       "source_title": "CBOE Volatility Index: VIX",
       "frequency": "Daily, Close",
-      "last_updated": "2026-10-26 08:38:30-05",
+      "last_updated": "2026-10-27 08:37:37-05",
       "history": [
-        {
-          "date": "2025-11-19",
-          "value": 23.66
-        },
         {
           "date": "2025-11-20",
           "value": 26.42
@@ -31127,6 +31123,10 @@
         {
           "date": "2026-10-23",
           "value": 19.45
+        },
+        {
+          "date": "2026-10-26",
+          "value": 18.39
         }
       ]
     },
@@ -33090,19 +33090,15 @@
       "section": "Liquidity",
       "unit": "$bn",
       "importance": 4,
-      "value": 0.2,
-      "date": "2026-10-26",
-      "change": 0.0,
-      "status": "neutral",
+      "value": 0.226,
+      "date": "2026-10-27",
+      "change": 0.025999999999999995,
+      "status": "positive",
       "source": "FRED",
       "source_title": "Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations",
       "frequency": "Daily",
-      "last_updated": "2026-10-26 13:02:36-05",
+      "last_updated": "2026-10-27 13:02:33-05",
       "history": [
-        {
-          "date": "2025-11-07",
-          "value": 4.903
-        },
         {
           "date": "2025-11-10",
           "value": 7.152
@@ -34058,6 +34054,10 @@
         {
           "date": "2026-10-26",
           "value": 0.2
+        },
+        {
+          "date": "2026-10-27",
+          "value": 0.226
         }
       ]
     },
@@ -34067,19 +34067,15 @@
       "section": "Liquidity",
       "unit": "$bn",
       "importance": 3,
-      "value": 5.6589084127717015,
-      "date": "2026-08-01",
-      "change": 0.24566200858746612,
+      "value": 5.709912773373316,
+      "date": "2026-09-01",
+      "change": 0.11304158298452993,
       "status": "positive",
       "source": "FRED",
       "source_title": "M2",
       "frequency": "Monthly",
-      "last_updated": "2026-09-22 12:01:30-05",
+      "last_updated": "2026-10-27 12:01:34-05",
       "history": [
-        {
-          "date": "2006-09-01",
-          "value": 5.1828991558500626
-        },
         {
           "date": "2006-10-01",
           "value": 5.38982540638171
@@ -34778,263 +34774,267 @@
         },
         {
           "date": "2021-04-01",
-          "value": 18.2260900140647
+          "value": 18.22667604313175
         },
         {
           "date": "2021-05-01",
-          "value": 14.084397080064015
+          "value": 14.085512410843236
         },
         {
           "date": "2021-06-01",
-          "value": 12.611111111111107
+          "value": 12.60726072607261
         },
         {
           "date": "2021-07-01",
-          "value": 12.539140491179058
+          "value": 12.576235312087448
         },
         {
           "date": "2021-08-01",
-          "value": 13.2007842157571
+          "value": 13.469068553708464
         },
         {
           "date": "2021-09-01",
-          "value": 12.794410104810549
+          "value": 13.206127385111532
         },
         {
           "date": "2021-10-01",
-          "value": 12.81616639747547
+          "value": 12.73940692647615
         },
         {
           "date": "2021-11-01",
-          "value": 12.306340251757675
+          "value": 12.239506588641436
         },
         {
           "date": "2021-12-01",
-          "value": 12.465872360011288
+          "value": 12.389510131071058
         },
         {
           "date": "2022-01-01",
-          "value": 11.726786165891646
+          "value": 11.603433237162776
         },
         {
           "date": "2022-02-01",
-          "value": 10.611259889824542
+          "value": 10.511470669096902
         },
         {
           "date": "2022-03-01",
-          "value": 9.628418324989308
+          "value": 9.54086895267805
         },
         {
           "date": "2022-04-01",
-          "value": 7.902706936121073
+          "value": 7.8149319427784025
         },
         {
           "date": "2022-05-01",
-          "value": 6.16155444213613
+          "value": 6.073507774578757
         },
         {
           "date": "2022-06-01",
-          "value": 5.735931264562066
+          "value": 5.660902696365766
         },
         {
           "date": "2022-07-01",
-          "value": 4.940378090159969
+          "value": 4.8214839510001495
         },
         {
           "date": "2022-08-01",
-          "value": 3.8279600844367767
+          "value": 3.4867470110178322
         },
         {
           "date": "2022-09-01",
-          "value": 2.6489845321032712
+          "value": 2.1783306428639237
         },
         {
           "date": "2022-10-01",
-          "value": 1.4174880222262098
+          "value": 1.3896112492789658
         },
         {
           "date": "2022-11-01",
-          "value": 0.321448486240028
+          "value": 0.2827242805300001
         },
         {
           "date": "2022-12-01",
-          "value": -0.9747567758617404
+          "value": -1.00241062536649
         },
         {
           "date": "2023-01-01",
-          "value": -1.724918465958969
+          "value": -1.6736421023423653
         },
         {
           "date": "2023-02-01",
-          "value": -2.2342305851161703
+          "value": -2.139500598912747
         },
         {
           "date": "2023-03-01",
-          "value": -3.8819355519756127
+          "value": -3.849669509937681
         },
         {
           "date": "2023-04-01",
-          "value": -4.640671799489171
+          "value": -4.657299961380734
         },
         {
           "date": "2023-05-01",
-          "value": -4.091536973938659
+          "value": -4.1114828434761
         },
         {
           "date": "2023-06-01",
-          "value": -3.917863907238872
+          "value": -3.9462065840996097
         },
         {
           "date": "2023-07-01",
-          "value": -3.958575836520517
+          "value": -3.98256270860492
         },
         {
           "date": "2023-08-01",
-          "value": -3.9733110309168818
+          "value": -3.9899361295723357
         },
         {
           "date": "2023-09-01",
-          "value": -3.656696671045856
+          "value": -3.675513921415563
         },
         {
           "date": "2023-10-01",
-          "value": -3.386103372126603
+          "value": -3.410791980861516
         },
         {
           "date": "2023-11-01",
-          "value": -3.0818094771012827
+          "value": -3.1068097342029644
         },
         {
           "date": "2023-12-01",
-          "value": -2.410628745327148
+          "value": -2.440675416494309
         },
         {
           "date": "2024-01-01",
-          "value": -2.0612014665789213
+          "value": -2.131071979531163
         },
         {
           "date": "2024-02-01",
-          "value": -1.4995150704795623
+          "value": -1.6269960831575725
         },
         {
           "date": "2024-03-01",
-          "value": 0.11269058317378011
+          "value": 0.039651070578927694
         },
         {
           "date": "2024-04-01",
-          "value": 0.9499860296172224
+          "value": 0.9263277686157645
         },
         {
           "date": "2024-05-01",
-          "value": 0.922734212219245
+          "value": 0.9001345636293623
         },
         {
           "date": "2024-06-01",
-          "value": 1.3067998788397484
+          "value": 1.2884253488181896
         },
         {
           "date": "2024-07-01",
-          "value": 1.4750723829128232
+          "value": 1.45592504682166
         },
         {
           "date": "2024-08-01",
-          "value": 1.9728611298238885
+          "value": 1.9586496589463875
         },
         {
           "date": "2024-09-01",
-          "value": 2.5152262739958298
+          "value": 2.5089484703181064
         },
         {
           "date": "2024-10-01",
-          "value": 2.8894654103214235
+          "value": 2.891035761359184
         },
         {
           "date": "2024-11-01",
-          "value": 3.397639483944337
+          "value": 3.403300521134911
         },
         {
           "date": "2024-12-01",
-          "value": 3.4056949263470804
+          "value": 3.413383702104711
         },
         {
           "date": "2025-01-01",
-          "value": 3.377888699575249
+          "value": 3.388519114784816
         },
         {
           "date": "2025-02-01",
-          "value": 3.2765023874733012
+          "value": 3.278617917304749
         },
         {
           "date": "2025-03-01",
-          "value": 3.4255624609484725
+          "value": 3.4215339359817465
         },
         {
           "date": "2025-04-01",
-          "value": 3.891121142998921
+          "value": 3.886306193531741
         },
         {
           "date": "2025-05-01",
-          "value": 3.874586139970315
+          "value": 3.8746767133596594
         },
         {
           "date": "2025-06-01",
-          "value": 4.137973584171384
+          "value": 4.139225469232599
         },
         {
           "date": "2025-07-01",
-          "value": 4.392172103758951
+          "value": 4.391463837097276
         },
         {
           "date": "2025-08-01",
-          "value": 4.2497168742921865
+          "value": 4.25261506770358
         },
         {
           "date": "2025-09-01",
-          "value": 4.232548083250287
+          "value": 4.232019915387841
         },
         {
           "date": "2025-10-01",
-          "value": 4.279969629650471
+          "value": 4.27945999971846
         },
         {
           "date": "2025-11-01",
-          "value": 3.84577738211207
+          "value": 3.8447359456445174
         },
         {
           "date": "2025-12-01",
-          "value": 4.038142928945065
+          "value": 4.038766191408061
         },
         {
           "date": "2026-01-01",
-          "value": 4.05816345006571
+          "value": 4.057898259705484
         },
         {
           "date": "2026-02-01",
-          "value": 4.588748195046088
+          "value": 4.5929076831116245
         },
         {
           "date": "2026-03-01",
-          "value": 4.409682670712645
+          "value": 4.416504289526912
         },
         {
           "date": "2026-04-01",
-          "value": 4.52808348797471
+          "value": 4.528751385484275
         },
         {
           "date": "2026-05-01",
-          "value": 5.392904410586152
+          "value": 5.374436007483219
         },
         {
           "date": "2026-06-01",
-          "value": 5.3425756291415105
+          "value": 5.300213085357353
         },
         {
           "date": "2026-07-01",
-          "value": 5.413246404184235
+          "value": 5.360917533787024
         },
         {
           "date": "2026-08-01",
-          "value": 5.6589084127717015
+          "value": 5.596871190388786
+        },
+        {
+          "date": "2026-09-01",
+          "value": 5.709912773373316
         }
       ]
     },
